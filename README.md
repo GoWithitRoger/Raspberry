@@ -1,3 +1,11 @@
+# Raspberry
+
+> **Archived fork.** I kept this fork for reference and do not maintain it. The original project is at
+> [daveshap/Raspberry](https://github.com/daveshap/Raspberry).
+
+<details>
+<summary>Original upstream README</summary>
+
 <div align="center">
 
 # Raspberry
@@ -22,3 +30,5 @@ Create an open source toy dataset for finetuning LLMs with reasoning abilities
 3. **Clean and Rectify Samples:** By using rubrics and similar grading techniques, we will assess the quality of the CoT and self-critique samples. Furthermore, using a series of prompts, we will clean these samples such that they represent a singular, coherent response, thus ideal for a "single shot reasoner" dataset.
 4. **Finetune an LLM with the toy dataset:** The first model will be a pilot, more of a proof of concept. We will test it and see how it performs, and iterate accordingly.
 5. **Scale Up and Seek Funding:** Assuming we get acceptable results, we might try to seek funding for a larger dataset with more robust testing and benchmarking. We will need to ensure that this open source dataset covers many tasks and domains, and that it is easily usable and adaptable to multiple frameworks and architectures. Likely try and kickstart a project from Manifund. https://manifund.org/
+
+</details>
