@@ -1,6 +1,6 @@
 # Raspberry
 
-> **Archived fork.** I kept this fork for reference and do not maintain it. The original project is at
+> **Archived fork.** This fork is kept for reference and is not maintained. The original project is at
 > [daveshap/Raspberry](https://github.com/daveshap/Raspberry).
 
 <details>
